@@ -67,8 +67,9 @@ General introduction to Rhino going over the basics and your first Rhino model!
 ```
 
 # Practice Assignment
-Pick an object from the ones linked on the page below, and prepare a 2D front, top and side elevation views of them. The objects need not be very accurate. The idea is to get famiiar with the interface and basic commands covered in this class.
-
+Pick an object from the ones linked on the page below, and prepare a 2D front, top and side elevation views of them. The objects need not be very accurate. The idea is to get famiiar with the interface and basic commands covered in this class.  
+Use the template file linked above to copy your final work in the respective boxes in the file and upload it to the upload file link above.  
+Name the file your upload with your name.  
 [Object List](./ref-objects.md)
 
 # Links
