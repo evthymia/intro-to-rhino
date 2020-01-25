@@ -66,6 +66,11 @@ General introduction to Rhino going over the basics and your first Rhino model!
 - Scale 1D/2D (Gumball shortcut)
 ```
 
+# Practice Assignment
+Pick an object from the ones linked on the page below, and prepare a 2D front, top and side elevation views of them. The objects need not be very accurate. The idea is to get famiiar with the interface and basic commands covered in this class.
+
+[Object List](./ref-objects.md)
+
 # Links
 - [Rhino](https://www.rhino3d.com/)
 - [Forum](https://discourse.mcneel.com/)
