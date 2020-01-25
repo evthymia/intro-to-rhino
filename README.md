@@ -1,9 +1,9 @@
 # Intro to Rhinoceros 3D
 
-ABOUT RHINO
-# NURBS vs. other CAD software
+# ABOUT RHINO
+## NURBS vs. other CAD software
 
-# Interface
+## Interface
 - Command line
 - Viewports, view modes
 - Layers and Properties
@@ -13,7 +13,7 @@ ABOUT RHINO
 - Enter or Right click to repeat command
 
 
-# RHINO USES
+## RHINO USES
 - Modeling for rendering
 - Technical modeling for analysis
 - Data visualization
@@ -68,8 +68,8 @@ ABOUT RHINO
    1. Generate a pattern by drawing a unit module and use transformations to create pattern
 
 
-## GEOMETRY - 3D
-# Surfaces
+# GEOMETRY - 3D
+## Surfaces
 - Introduction to NURBS surfaces
 - From planar curve
 - Extrusion
@@ -81,22 +81,22 @@ ABOUT RHINO
       - Pipe
 
 
-# Surface Editing
+## Surface Editing
 - Control points
 - Rebuild (degrees)
 
 
-# Record history
+## Record History
 - Parent-child geometry (editing child geometry breaks link!)
 - Options (right click)
 
 
-CHALLENGE #2
-1. In-Class ???
-2. Homework ???
+## CHALLENGE 2
+### In-Class
+### Homework
 
 
-# Volumes
+## Volumes
 - Primitive
 - Revolve
 - Extrude surface
@@ -105,36 +105,36 @@ CHALLENGE #2
    - Boolean operations
 
 
-# Volume Editing
+## Volume Editing
 - Box edit
 - Cage edit
 
 
-# 3D to 2D
+## 3D to 2D
 - Clipping plane
 - Contours
 - Remap to Cplane
 
 
-CHALLENGE #3
-1. Light bulb; Candela roof; spiral stairs
-2. Homework:
+### CHALLENGE 3
+### Light bulb; Candela roof; spiral stairs
+### Homework:
    1. Complex volume from Boolean opreations
    2. Contour - remap to Cplane
    3. Laser cut - reassemble
 
 
-BACK TO CURVES
-# Pull
-# Project
-# Curve on Surface
-# Fin
-# Orient on Surface
-# Make2D
+## BACK TO CURVES
+- Pull
+- Project
+- Curve on Surface
+- Fin
+- Orient on Surface
+- Make2D
 
 
-PANELING TOOLS
-# Planar grid
+# PANELING TOOLS
+## Planar grid
 - Attraction points, curves
 - Panelize
 - Pattern mapping
@@ -144,14 +144,14 @@ PANELING TOOLS
    - Pattern mapping
 
 
-FABRICATION
-# 3D print-ready
+# FABRICATION
+## 3D print-ready
 - What
 - Seldbad, SelOpenSurface
 - EdgeAnalysis
 - .stl
 
 
-CHALLENGE #4
+### CHALLENGE #4
 1. Pattern on freeform surface - perforations
 2. Prepare surface pattern model for 3D printing
