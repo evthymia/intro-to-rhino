@@ -1,4 +1,4 @@
-# Intro to Rhinoceros 3D
+# Contents
 
 # ABOUT RHINO
 ## NURBS vs. other CAD software
