@@ -3,7 +3,7 @@
 General introduction to Rhino going over the basics and your first Rhino model!
 
 - [Slides](./slides.pdf)
-- [Upload Link]()
+- Upload Link
 - [Template File](./Intro_To_Rhino_Template.3dm)
 
 # Topics
