@@ -9,3 +9,21 @@
 ![Object 2](./object-images/o2_2.jpg)
 
 ---
+![Object 3](./object-images/o3_1.jpg)
+![Object 3](./object-images/o3_2.jpg)
+
+---
+![Object 3](./object-images/o3_1.jpg)
+![Object 3](./object-images/o3_2.jpg)
+
+---
+![Object 3](./object-images/o3_1.jpg)
+![Object 3](./object-images/o3_2.jpg)
+
+---
+![Object 3](./object-images/o3_1.jpg)
+![Object 3](./object-images/o3_2.jpg)
+
+---
+![Object 7](./object-images/o7_1.jpg)
+![Object 7](./object-images/o7_2.jpg)
